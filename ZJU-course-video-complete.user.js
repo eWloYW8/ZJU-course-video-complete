@@ -207,12 +207,7 @@
             }
             console.log('[ZJU Course Complete] 成功将按钮插入视频信息右侧');
         } catch (e) {
-            console.warn('[ZJU Course Complete] 未检测到视频信息，插入右下角作为备用');
-            button.style.position = 'fixed';
-            button.style.bottom = '10px';
-            button.style.right = '10px';
-            button.style.zIndex = '9999';
-            document.body.appendChild(button);
+            console.warn('[ZJU Course Complete] 未检测到视频信息');
         }
     }
 
