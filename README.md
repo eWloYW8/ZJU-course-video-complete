@@ -17,7 +17,7 @@ Tampermonkey 用户脚本，用于快速完成浙江大学“学在浙大”课�
 
 ## 效果截图
 
-![截图示例](snapshot/snapshot1.png)
+![截图示例](screenshot/screenshot1.png)
 
 ## 注意事项
 
